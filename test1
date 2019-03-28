@@ -3,4 +3,8 @@ line 2
 line 3
 line soft
 change by new-feature
+<<<<<<< HEAD
 hi
+=======
+111
+>>>>>>> 450b183
